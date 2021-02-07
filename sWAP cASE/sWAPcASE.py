@@ -20,4 +20,5 @@ def swap_case(s):
 if __name__ == '__main__':
     s = input("enter a string : ")
     result = swap_case(s)
-    print(result)
+    # unblock line below to output result
+    #print(result)
