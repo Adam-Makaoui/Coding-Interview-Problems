@@ -1,6 +1,6 @@
 # sWAPcASE
 
-sWAPcASE is a Python module written to solve a hacker problem for dealing with alternating word cases. 
+**sWAPcASE** is a Python module written to solve a hacker problem for dealing with alternating word cases. 
 Given a string, if a character in the string is alpabetic, and lower case, swap it to upper case and vice versa.
 
 ## Installation
