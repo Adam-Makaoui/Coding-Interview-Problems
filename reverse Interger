@@ -5,7 +5,7 @@
     import math
     import sys
 
-    def reverse(self, x):
+    def reverse(x):
         """
         :type x: int
         :rtype: int
