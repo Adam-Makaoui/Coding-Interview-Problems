@@ -1,3 +1,5 @@
+# Removes duplicates in an array in O(1) space complexity
+
 def removeDuplicates(nums):
     """
     :type nums: List[int]
